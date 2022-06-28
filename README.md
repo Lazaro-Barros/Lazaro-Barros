@@ -9,7 +9,7 @@
 Meu nome é <b>Lázaro</b>, desenvolvedor BackEnd, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com Golang juntamente do Postgres , nas tecnologias front-end, estudando dart com Flutter usualmente utilizando o Firebase, e usualmente utilizando python para resolver problemas do URI e CodeWars
 
 - 💻 Atualmente trabalhando como desenvolvedor BackEnd na empresa Brisanet;
-- 🌱 Sempre estudando sobre Golang, Python, Dart ,Flutter, SQL;
+- 🌱 Sempre estudando sobre Golang, Python, SQL;
 - 🔭 Sempre tentando avançar para o proximo nível;
 
 ----
@@ -33,8 +33,6 @@ Meu nome é <b>Lázaro</b>, desenvolvedor BackEnd, estudando e aprendendo consta
 
   <img alt="Golang" src="https://img.shields.io/badge/golang-76B2D7.svg?&style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python%20-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/dart-0073ba.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/flutter-0093ed.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 
   <br />
   <br />
@@ -47,7 +45,7 @@ Meu nome é <b>Lázaro</b>, desenvolvedor BackEnd, estudando e aprendendo consta
   <strong> Database ⚡ </strong>
 
   <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-1973E8.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+
   
   <br />
   <br />
