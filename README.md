@@ -4,75 +4,66 @@
 
 </div>
 
-### Olá Dev 👋
+# 👋 Hi, I'm Lázaro Barros
 
-Meu nome é <b>Lázaro</b>, desenvolvedor BackEnd, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com Golang juntamente do Postgres , nas tecnologias front-end, estudando dart com Flutter usualmente utilizando o Firebase, e usualmente utilizando python para resolver problemas do URI e CodeWars
+I’m a back-end developer with solid experience in building scalable, high-performance distributed systems. I work primarily with **Golang**, focusing on system architecture, clean code, and performance. I’ve contributed to projects in the telecommunications, financial, and PaaS sectors.
 
-- 💻 Atualmente trabalhando como desenvolvedor BackEnd na empresa Brisanet;
-- 🌱 Sempre estudando sobre Golang, Python, SQL;
-- 🔭 Sempre tentando avançar para o proximo nível;
-
-----
-
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/lazaro-barros-severo/) 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=dark">](https://www.instagram.com/lazaro.barros.severo/) 
-[<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:tharlys2015c@gmail.com">](mailto:lazarobs4@gmail.com)   
-
+Currently, I work remotely as a contractor at **Yes Technology Ltda**, developing the core of a multi-tenant Platform as a Service (PaaS).
 
 ---
 
-### Stacks :computer:
-<p align="left">
-  <div>
-  <strong> Languages 👨‍💻 </strong>
-  
-  <br />
-  <br />
+### 💼 Professional Experience
 
-  <img alt="Golang" src="https://img.shields.io/badge/golang-76B2D7.svg?&style=for-the-badge&logo=go&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/python%20-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+- 🔧 **Yes Technology Ltda** (2023 - Present) — Building distributed, high-performance services using concurrency and parallelism
+- 💳 **Bemobi S.A.** (2024 - 2025) — Developed core payment gateway features using DDD and Clean Architecture
+- 🌐 **Brisanet Telecomunicações** (2021 - 2023) — Back-end development of internal tools for telecom infrastructure
 
-  <br />
-  <br />
-  
-</div>
+---
 
-<div>
-  
+### 🚀 Tech Stack
 
-  <strong> Database ⚡ </strong>
+**Languages:**
 
-  <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+![Golang](https://img.shields.io/badge/golang-76B2D7.svg?&style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-  
-  <br />
-  <br />
-</div>
+**Databases:**
 
-<div>
-  
-  <strong> Tools/Technologies 🚀 </strong>
-  
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-  <br />
-  <br />
-  
-  </p>
+**Tools & Technologies:**
 
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-5C2D91?style=for-the-badge&logo=grpc&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-----
+---
 
-<p align="justify">
+### 🧠 Technical Interests
 
-[![Tharlys's github stats](https://github-readme-stats.vercel.app/api?username=Lazaro-Barros&show_icons=true&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+- Distributed systems and microservices
+- Domain-Driven Design (DDD) and Clean Architecture
+- High performance and concurrent processing
+- REST and gRPC APIs
+- Observability (OpenTelemetry, Jaeger) and test automation
 
-[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Lazaro-Barros&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro-Barros&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-barros-severo/)
+[![Email](https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazarobs4@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+[![Lazaro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lazaro-Barros&show_icons=true&theme=dracula&locale=en&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lazaro-Barros&theme=dracula&locale=en&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro-Barros&layout=compact&theme=dracula&locale=en&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
