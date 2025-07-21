@@ -6,17 +6,18 @@
 
 # 👋 Hi, I'm Lázaro Barros
 
-I’m a back-end developer with solid experience in building scalable, high-performance distributed systems. I work primarily with **Golang**, focusing on system architecture, clean code, and performance. I’ve contributed to projects in the telecommunications, financial, and PaaS sectors.
+I’m a back-end developer with solid experience in designing and building scalable, high-performance systems using **Golang**. I've worked in diverse sectors such as **telecommunications**, **financial services**, and **platform-as-a-service (PaaS)**, always focusing on clean architecture, performance optimization, and system reliability.
 
-Currently, I work remotely as a contractor at **Yes Technology Ltda**, developing the core of a multi-tenant Platform as a Service (PaaS).
+My expertise includes **distributed systems**, **REST/gRPC APIs**, and **automated testing**, with a strong understanding of **software architecture principles** like **DDD**, **Clean Architecture**, and **SOLID**. I'm also experienced with agile methodologies and working remotely in collaborative environments.
 
 ---
 
-### 💼 Professional Experience
+### 💼 Professional Summary
 
-- 🔧 **Yes Technology Ltda** (2023 - Present) — Building distributed, high-performance services using concurrency and parallelism
-- 💳 **Bemobi S.A.** (2024 - 2025) — Developed core payment gateway features using DDD and Clean Architecture
-- 🌐 **Brisanet Telecomunicações** (2021 - 2023) — Back-end development of internal tools for telecom infrastructure
+- ⚙️ Built and maintained core services for large-scale systems in the **telecom** and **financial** industries.
+- 🧩 Developed APIs and back-end solutions for **PaaS platforms** with high scalability and concurrency needs.
+- 💡 Applied concepts such as **Domain-Driven Design (DDD)**, **event-driven architecture**, and **Clean Architecture**.
+- 🛠️ Focused on performance, observability, and data consistency across distributed services.
 
 ---
 
@@ -43,13 +44,13 @@ Currently, I work remotely as a contractor at **Yes Technology Ltda**, developin
 
 ---
 
-### 🧠 Technical Interests
+### 🧠 Knowledge in
 
-- Distributed systems and microservices
-- Domain-Driven Design (DDD) and Clean Architecture
-- High performance and concurrent processing
-- REST and gRPC APIs
-- Observability (OpenTelemetry, Jaeger) and test automation
+- Distributed systems and microservices architecture
+- High-performance back-end engineering (parallelism, concurrency)
+- Domain-Driven Design (DDD), Clean Architecture, SOLID principles
+- Observability (OpenTelemetry, Jaeger), test automation
+- RESTful APIs and gRPC communication
 
 ---
 
