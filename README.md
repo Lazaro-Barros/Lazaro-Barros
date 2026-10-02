@@ -6,51 +6,21 @@
 
 # 👋 Hi, I'm Lázaro Barros
 
-I’m a back-end developer with solid experience in designing and building scalable, high-performance systems using **Golang**. I've worked in diverse sectors such as **telecommunications**, **financial services**, and **platform-as-a-service (PaaS)**, always focusing on clean architecture, performance optimization, and system reliability.
+Senior Software Engineer specialized in Go (Golang), I bring extensive hands-on experience in building high-performance, scalable, and distributed systems within cloud-native environments. My expertise spans various industries, including telecom, financial services and PAAS, where I have focused on ensuring performance, reliability, and data consistency under real production loads. I am proficient in designing and operating backend systems utilizing microservices, RESTful APIs, and SQL databases such as PostgreSQL and MySQL. Additionally, I have strong skills in AWS, Docker, and Kubernetes, with a solid background in system optimization, concurrency, automated testing, and production incident response. I thrive on tackling complex technical challenges and delivering real value through my work. 
+ 
+Tecnologies:
+- Golang
+- AWS
+- RabbitMQ, SQS/SNS, Kafka
+- Distributed systems,microservices, cloud-native environments
+- RESTful APIs
+- PostgreSQL,MySQL, Redis, Mongo DB
+- K8s, docker, docker-compose
+- System optimization, concurrency
+- Production incident response
+- Tests (unitary / integration / load / E2E / Contract)
 
-My expertise includes **distributed systems**, **REST/gRPC APIs**, and **automated testing**, with a strong understanding of **software architecture principles** like **DDD**, **Clean Architecture**, and **SOLID**. I'm also experienced with agile methodologies and working remotely in collaborative environments.
-
----
-
-### 💼 Professional Summary
-
-- ⚙️ Built and maintained core services for large-scale systems in the **telecom** and **financial** industries.
-- 🧩 Developed APIs and back-end solutions for **PaaS platforms** with high scalability and concurrency needs.
-- 💡 Applied concepts such as **Domain-Driven Design (DDD)**, **event-driven architecture**, and **Clean Architecture**.
-- 🛠️ Focused on performance, observability, and data consistency across distributed services.
-
----
-
-### 🚀 Tech Stack
-
-**Languages:**
-
-![Golang](https://img.shields.io/badge/golang-76B2D7.svg?&style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-blue.svg?&style=for-the-badge&logo=python&logoColor=white)
-
-**Databases:**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & Technologies:**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-5C2D91?style=for-the-badge&logo=grpc&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-### 🧠 Knowledge in
-
-- Distributed systems and microservices architecture
-- High-performance back-end engineering (parallelism, concurrency)
-- Domain-Driven Design (DDD), Clean Architecture, SOLID principles
-- Observability (OpenTelemetry, Jaeger), test automation
-- RESTful APIs and gRPC communication
+I enjoy solving problems and helping people. I focus on delivering real value, not on specific tools or technologies. If there’s a challenge, I take responsibility and work until I find a solution, even if I don’t know the answer right away. I care a lot about the team and the people I work with. I like being part of strong, collaborative environments where everyone supports each other. I try to contribute by sharing knowledge, helping teammates, and keeping the team motivated to reach and exceed our goals in each sprint or cycle.
 
 ---
 
